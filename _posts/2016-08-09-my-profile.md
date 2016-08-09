@@ -1,13 +1,13 @@
 ---
 description: Testing 456
-dateModified: '2016-08-09T17:02:50.449Z'
-datePublished: '2016-08-09T17:03:46.830Z'
+dateModified: '2016-08-09T17:06:03.205Z'
+datePublished: '2016-08-09T17:06:03.443Z'
 title: My Profile
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-09-my-profile.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
