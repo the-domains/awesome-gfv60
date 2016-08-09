@@ -1,0 +1,14 @@
+layout_spectrum: 0.6914087950717658
+typography_spectrum: 0.15186492167413235
+color:
+  brandStrength: 0.14432742772623897
+  lightness: 0.08860269654542208
+  saturation: 0.3630153809208423
+  rhythmicContrast: 0.03322858875617385
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: awesome
